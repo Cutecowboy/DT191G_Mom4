@@ -6,7 +6,7 @@ namespace MusicApi.Models;
 public class Music {
     //props
 
-    public int MusicId { get; set; }
+    public int Id { get; set; }
     [Required]
     public string? Artist {get;set;}
     [Required]

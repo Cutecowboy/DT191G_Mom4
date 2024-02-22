@@ -5,7 +5,7 @@ namespace CourseApi.Models;
 
 public class Category {
     // props
-    public int CatId { get; set; }
+    public int Id { get; set; }
     [Required]
     public string? CatName { get; set; }
 
