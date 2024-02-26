@@ -276,3 +276,4 @@ C:\Users\navid\Documents\MIUN\DT191G\mom4\MusicApi\obj\Debug\net8.0\refint\Music
 C:\Users\navid\Documents\MIUN\DT191G\mom4\MusicApi\obj\Debug\net8.0\MusicApi.pdb
 C:\Users\navid\Documents\MIUN\DT191G\mom4\MusicApi\obj\Debug\net8.0\MusicApi.genruntimeconfig.cache
 C:\Users\navid\Documents\MIUN\DT191G\mom4\MusicApi\obj\Debug\net8.0\ref\MusicApi.dll
+C:\Users\navid\Documents\MIUN\DT191G\mom4\MusicApi\obj\Debug\net8.0\MusicApi.sourcelink.json
